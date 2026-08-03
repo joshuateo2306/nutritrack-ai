@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nutritrack_final</string>
+    <string name="title_activity_questionnaire_screen">QuestionnaireScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_insights_screen">InsightsScreen</string>
+    <string name="title_activity_setting_screen">SettingScreen</string>
+    <string name="title_activity_nutricoach_screen">NutricoachScreen</string>
+    <string name="title_activity_clinician_screen">ClinicianScreen</string>
+</resources>
