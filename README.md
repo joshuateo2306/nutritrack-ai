@@ -45,7 +45,7 @@ Users can review their data and receive personalised feedback based on their rec
 
 ### Persistent AI Tip Storage
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 Generated AI recommendations can be stored locally so users can revisit previous messages.
 
@@ -58,7 +58,7 @@ The application supports:
 
 ### Premium Access System
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 A custom premium-access system was implemented beyond the core project requirements.
 
@@ -75,7 +75,7 @@ This feature demonstrates conditional feature access and differentiated applicat
 
 ### Theme Customisation
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 Premium users can customise the visual appearance of the application.
 
@@ -91,7 +91,7 @@ Theme selection is persisted and applied throughout the application.
 
 ### User Profile Customisation
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 Users with premium access can update their display name through the settings interface.
 
